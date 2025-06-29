@@ -6,4 +6,4 @@ permalink: /home/
 
 
 
-aksdjfkajsdkf
+Herzlich Willkommen!
