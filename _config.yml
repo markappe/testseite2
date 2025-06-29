@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Kappes"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/umbenannt.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Energieberatung"
   location         : "Gerolsheim"
   email            :
