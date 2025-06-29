@@ -8,4 +8,3 @@ permalink: /home/
 
 Herzlich Willkommen!
 
-![Example Image](/assets/images/Unbenannt.png)
